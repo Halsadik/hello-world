@@ -1,2 +1,4 @@
 # hello-world
-my first github repo
+
+
+Be the man you are destined to be.
